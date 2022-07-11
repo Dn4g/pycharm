@@ -1,4 +1,1 @@
-test
-dfgdfg
-efsfdd
-gkgjkhj
+print ('hello world')
