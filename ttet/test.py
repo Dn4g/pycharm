@@ -1,3 +1,1 @@
-test
-dfgdfg
-efsfdd
+print ('hello world')
